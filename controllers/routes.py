@@ -3,6 +3,7 @@ from models.base import session
 
 from models.post import Post
 
+
 def total_forum():
     total = session.query(func.count(Post.id))
     print(total)
