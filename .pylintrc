@@ -1,0 +1,17 @@
+[MASTER]
+disable=
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
+    duplicate-code,
+    no-member,
+    too-few-public-methods,
+    singleton-comparison,
+    unused-argument,
+    no-self-use,
+    bad-continuation,
+    fixme,
+    comparison-with-callable,
+    unnecessary-comprehension,
+    import-outside-toplevel
+
